@@ -10,7 +10,6 @@ Raspberry Pi Wireless Project - Stage 1
 
 Raspberry Pi Individual Project, It "should" work on any Linux device, just ensure you have dependencies installed.
 
-
 Note: As this was a project for a subject, there's a high chance I won't maintain it, fix bugs, etc. Issues & Pull requests are welcome.  
 
 
@@ -29,11 +28,9 @@ Note: As this was a project for a subject, there's a high chance I won't maintai
 - View Connected Clients
 - Routable to Networks via eth0 (Note: Make sure you use dhclient to get an IP from DHCP)
 
-
-
 +++ Dependencies +++
 PyQt5
-
+Aircrack, Airodump, Airmon, Aireplay
 
 --PifiPwn --
 === iwlist ===
@@ -47,6 +44,13 @@ https://github.com/oblique/create_ap
   be done using the usual methods, It simply just creates the configuration files
   and runs the required programs. (dnsmasq, hostapd, etc)
   Configuration can be set in the global configuration section below.
+
+
+Demo:
+
+![PifiPwn Raspberry Pi Demo](PifiPwn.gif)
+
+
 
 
 How to:
