@@ -48,7 +48,7 @@ https://github.com/oblique/create_ap
 
 Demo:
 
-![PifiPwn Demo](https://media.giphy.com/media/L45uduWCBOr0aO1iNO/source.gif)
+![PifiPwn Demo](demo/PifiPwn-Demo.gif)
 
 
 
